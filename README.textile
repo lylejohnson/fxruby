@@ -1,2 +1,4 @@
-This is FXRuby, the Ruby language bindings for the FOX GUI toolkit. For instructions on building FXRuby from the source code,
-please see the "build instructions":http://www.fxruby.org/doc/build.html from the <em>FXRuby User's Guide</em>.
+FXRuby is the Ruby language binding for the FOX GUI toolkit.
+
+This fork is unmaintained, since the original author Lyle Johnson leaved the project.
+Current development is on https://github.com/larskanis/fxruby .
